@@ -1,0 +1,4 @@
+interface:
+  display_name: "Trae Unity Rules"
+  short_description: "自动加载 .trae/rules/ 中的 Unity C# 编码规范"
+  default_prompt: "使用 $trae-unity-rules 加载当前 Unity 工程的编码规范要求。"
